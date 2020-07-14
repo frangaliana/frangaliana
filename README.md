@@ -1,6 +1,6 @@
 # Fran Galiana — @frangaliana
 
-JAVASCRIPT | TYPESCRIPT | REACT | HTML5 & CSS3
+:computer: JAVASCRIPT | TYPESCRIPT | REACT | HTML5 & CSS3 :wrench:
 
 Hi there! :wave:
 
@@ -14,7 +14,7 @@ Cheers,
 
 ## :incoming_envelope: Get in touch
 
-- LinkedIn: linkedin.com/in/frangaliana/?locale=en_US
-- StackOverflow: stackoverflow.com/users/8534267/frangaliana
-- Dribbble: dribbble.com/frangaliana
-- Twitter: twitter.com/frangaliana
+- [Me in LinkedIn](https://linkedin.com/in/frangaliana/?locale=en_US)
+- [Me in StackOverflow] (https://stackoverflow.com/users/8534267/frangaliana)
+- [Me in Dribbble] (https://dribbble.com/frangaliana)
+- [Me in Twitter] (https://twitter.com/frangaliana)
