@@ -2,7 +2,7 @@
 
 :computer: JAVASCRIPT | TYPESCRIPT | REACT | HTML5 & CSS3 :wrench:
 
-![frangaliana-logo](./images/frangaliana-logo.png)
+![fglogo](./assets/images/fglogo.png)
 
 Hi there! :wave:
 
