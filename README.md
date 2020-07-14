@@ -8,7 +8,7 @@ I'm Fran, a Frontend Developer who builds efficient, high quality products with 
 
 Focused on clean code and good practices. I can't be without learning something new or knowing the latest.
 
-You already know me a little more, so I invite you to take a look at my work or connect on one of my social networks
+Are you looking for help or do you think we could build a good team? You already know me a little more, so I invite you to take a look at my work or connect on one of my social networks.
 
 Cheers,
 
