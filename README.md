@@ -2,6 +2,8 @@
 
 :computer: JAVASCRIPT | TYPESCRIPT | REACT | HTML5 & CSS3 :wrench:
 
+![frangaliana-logo](./images/frangaliana-logo.png)
+
 Hi there! :wave:
 
 I'm Fran, a Frontend Developer who builds efficient, high quality products with attention to tech details to satisfy customer or user experience and enhance your business.
