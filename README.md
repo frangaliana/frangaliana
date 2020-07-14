@@ -15,6 +15,6 @@ Cheers,
 ## :incoming_envelope: Get in touch
 
 - [Me in LinkedIn](https://linkedin.com/in/frangaliana/?locale=en_US)
-- [Me in StackOverflow] (https://stackoverflow.com/users/8534267/frangaliana)
-- [Me in Dribbble] (https://dribbble.com/frangaliana)
-- [Me in Twitter] (https://twitter.com/frangaliana)
+- [Me in StackOverflow](https://stackoverflow.com/users/8534267/frangaliana)
+- [Me in Dribbble](https://dribbble.com/frangaliana)
+- [Me in Twitter](https://twitter.com/frangaliana)
